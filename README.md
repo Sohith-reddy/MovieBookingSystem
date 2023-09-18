@@ -45,9 +45,6 @@ To compile and run this program, you need the following:
 
 - Add screenshots of the program in action (optional).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
